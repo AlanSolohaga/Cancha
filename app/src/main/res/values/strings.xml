@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cancha</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="CANCHAS">CANCHAS DISPONIBLES</string>
+    <string name="EQUIPOS">¡ARMÁ LOS EQUIPOS!</string>
+    <string name="CONTACTO">¡REGISTRÁ TU CANCHA!</string>
+</resources>

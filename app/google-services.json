@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "553887821470",
+    "firebase_url": "https://cancha-1f428.firebaseio.com",
+    "project_id": "cancha-1f428",
+    "storage_bucket": "cancha-1f428.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553887821470:android:414426480a4c57f153158f",
+        "android_client_info": {
+          "package_name": "com.project.cancha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553887821470-eh5cnvkl4q23koqljbgp34cr66nsc57e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.cancha",
+            "certificate_hash": "932778480f72911262b7dacfb924f5a59c628832"
+          }
+        },
+        {
+          "client_id": "553887821470-dfvlkvak906u7f4t2pi2g1t5j289t882.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDymfI37nKMKaYshbIn690EPKNJjfpNb_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553887821470-dfvlkvak906u7f4t2pi2g1t5j289t882.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
